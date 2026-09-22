@@ -1,0 +1,8 @@
+{
+  "name": "dpi-financial-case",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DPI-HT-01 evidence-led accounting reconstruction",
+  "scripts": {"build": "node scripts/build.mjs", "test": "node scripts/test.mjs", "start": "node scripts/serve.mjs"},
+  "engines": {"node": ">=20"}
+}
